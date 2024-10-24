@@ -1,0 +1,3 @@
+C:/Users/abdal/CLionProjects/Phone_Book/cmake-build-debug/CMakeFiles/Phone_Book.dir
+C:/Users/abdal/CLionProjects/Phone_Book/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdal/CLionProjects/Phone_Book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
